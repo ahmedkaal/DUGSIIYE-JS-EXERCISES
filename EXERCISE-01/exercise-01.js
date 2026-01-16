@@ -1,4 +1,4 @@
-// EXERCISE 01
+// EXERCISE 01 Arithmetic operators
 let x=7,y=3;
 console.log(`Addition operation x+y=10`)
 console.log(x+y)
