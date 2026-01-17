@@ -21,4 +21,3 @@ console.log(`3* Not (!) operator !(isSunny||isWeekend) =>  Result = ${!(isSunny 
 console.log(`%c4* Not (!) operator !(isSunny&&isWeekend) =>  Result = ${!(isSunny && isWeekend)} => you can go to beach `, css2)
 
 
-
