@@ -7,3 +7,5 @@ ___
 * Exercise-4 Functions Dec/Express  => DONE
 * Exercise-5 ARROW FUCCTION         => DONE
 * Exercise-6 ARRAYS                 => DONE
+* Exercise-7 ARRAYS                 => DONE
+* Exercise-8 OBJECTS                => DONE
