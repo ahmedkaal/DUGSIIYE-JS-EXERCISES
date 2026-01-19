@@ -9,3 +9,4 @@ ___
 * Exercise-6 ARRAYS                 => DONE
 * Exercise-7 ARRAYS                 => DONE
 * Exercise-8 OBJECTS                => DONE
+* Exercise-9 OBJECTS                => DONE
