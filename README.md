@@ -14,3 +14,4 @@ ___
 * Exercise-11 LOOPS/ FOR-LOOP        => DONE
 * Exercise-12 LOOPS/ FOR-LOOP in array  => DONE
 * Exercise-13 LOOPS/ WHILE LOOP      => DONE
+* Exercise-14 LOOPS/DO WHILE LOOP    => DONE
