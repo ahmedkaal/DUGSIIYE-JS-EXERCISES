@@ -15,3 +15,4 @@ ___
 * Exercise-12 LOOPS/ FOR-LOOP in array  => DONE
 * Exercise-13 LOOPS/ WHILE LOOP      => DONE
 * Exercise-14 LOOPS/DO WHILE LOOP    => DONE
+* Exercise-15 LOOPS/FOR OF AND FOR IN LOOP    => DONE
