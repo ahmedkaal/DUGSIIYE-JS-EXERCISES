@@ -12,3 +12,4 @@ ___
 * Exercise-09 OBJECTS                => DONE
 * Exercise-10 OBJECTS                => DONE
 * Exercise-11 LOOPS/ FOR-LOOP        => DONE
+* Exercise-12 LOOPS/ FOR-LOOP in array  => DONE

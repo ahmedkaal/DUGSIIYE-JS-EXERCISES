@@ -7,12 +7,13 @@ let css1 = `font-size:1rem ; color:blue ; font-weight:bold; padding:0.5rem 1rem;
 let red = `background:blue; color:#fff ; padding:0.5rem 1rem;`
 let green = `background:green; color:#fff`
 
-// EXERCISE 11 LOOPS
-console.log(`%cEXERCISE 11 LOOPS/Forloop `, css1)
+// EXERCISE 12 LOOPS
+console.log(`%cEXERCISE 12 LOOPS/Forloop in Array `, css1)
 // ..........................................
-console.log('%cCreate number 1-50 using for loop. i made it 10 for screen shot',red);
+console.log('%c Create for loop that logs each item in the array[Tufaax,Canbe,Muus]',red);
 
-for ( let i=1; i<=10; i++){
-    console.log(i );
+let khudaar=['Tufaax','Canbe','Muus'];
+for (let i=0; i<khudaar.length; i++){
+    console.log(khudaar[i]);
     
 }
