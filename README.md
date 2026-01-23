@@ -11,3 +11,4 @@ ___
 * Exercise-08 OBJECTS                => DONE
 * Exercise-09 OBJECTS                => DONE
 * Exercise-10 OBJECTS                => DONE
+* Exercise-11 LOOPS/ FOR-LOOP        => DONE
