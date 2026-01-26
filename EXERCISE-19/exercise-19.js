@@ -17,7 +17,7 @@ console.log('%cFOR EACH METHOD', red);
 let numbers= [1,2,3,4,5]
 
 numbers.forEach((number)=>{
-      console.log(`  number ${number}`);
+      console.log(` number ${number}`);
       
 })
 

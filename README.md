@@ -19,4 +19,5 @@ ___
 * Exercise-16 CONDITIONAL STATEMENTS |IF-ELSE    => DONE
 * Exercise-17 CONDITIONAL STATEMENTS |IF-ELSE    => DONE
 * Exercise-18 TERNARY OPERATOR       => DONE
-* Exercise-19 FOR-EACH METHOD       => DONE
+* Exercise-19 FOR-EACH() METHOD       => DONE
+* Exercise-20 MAP() METHOD       => DONE
