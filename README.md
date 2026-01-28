@@ -23,3 +23,5 @@ ___
 * Exercise-20 MAP() METHOD          => DONE
 * Exercise-21 REDUCE() METHOD       => DONE
 * Exercise-22 DESTRUCTURING ARRAYS  => DONE
+* Exercise-23 DESTRUCTURING OBJECTS  => DONE
+* Exercise-24 DEFAULT PARAMETERS  => DONE
